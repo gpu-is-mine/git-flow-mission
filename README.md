@@ -2,4 +2,5 @@
 GPU를 개빡시게 돌려보고자 합니다.
 
 
-[완태 정보](wannte.md)
+[코기](ecsimsw.md)
+[완태](wannte.md)
