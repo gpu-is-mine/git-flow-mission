@@ -2,7 +2,7 @@
 
 GPU를 개빡시게 돌려보고자 합니다.
 
-
+- 에드: [에드](/ed.md)
 - 마갸: [마갸](myagya.md)
 - 배럴: [배럴](readme-better.md)
 - 동동: [동동](dd.md)   
